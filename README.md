@@ -4,5 +4,6 @@
 
 Olá,  Seja Bem Vindo ao meu livro de receitas :wave:
 
-- Macarrão na Panela se Pressão
-- 
+- Macarrão na Panela de Pressão
+- Spirandelli 
+
